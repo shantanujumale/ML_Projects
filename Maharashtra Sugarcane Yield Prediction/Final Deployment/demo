@@ -1,0 +1,1 @@
+Here we deploy final prediction model using machine leraning. we created a webpage using streamlit to intract with ML model to predict output on the basic of input feature.
