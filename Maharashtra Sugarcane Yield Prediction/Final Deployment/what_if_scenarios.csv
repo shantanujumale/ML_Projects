@@ -1,0 +1,6 @@
+Scenario,Water (L/Acre),Fertilizer (kg/Acre),Predicted Yield (Q/Acre),Yield vs Baseline (Q/Acre)
+1. Current Baseline,1976.8,254.4,266.96,0.0
+2. Severe Drought Shock (-35% Water),1284.9,254.4,263.61,-3.35
+3. Water Conservation (+Drip Proxy),1581.5,292.5,268.39,1.43
+4. Intensive Nutrient Strategy,2372.2,330.7,266.11,-0.84
+5. Eco-Friendly / Low-Chemical,1779.1,190.8,267.68,0.73
